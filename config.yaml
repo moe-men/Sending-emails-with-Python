@@ -1,0 +1,12 @@
+subject : "Report"
+message_body : " Dear ....."
+sender:
+    email: "exapmle.email@outlook.com"
+    password : "password"
+receivers:
+    receiver1:
+        name : "Sam"
+        email: "sam@outlook.com"
+    receiver2:
+        name : "Markus"
+        email : "markus@gmail.com"

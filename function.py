@@ -13,7 +13,7 @@ def load_config():
         return yaml.safe_load(stream)
 
 
-def send_email(csv_file=""):
+def send_email(csv_file="path/to/csv"):
 
     msg = MIMEMultipart()
 
